@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "864025976219",
+    "project_id": "blocauth-61965",
+    "storage_bucket": "blocauth-61965.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864025976219:android:6b97a168147ea7bf1c953e",
+        "android_client_info": {
+          "package_name": "com.example.bloc_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864025976219-2ibjuls9ohuv070l215dm2d5vemr8sn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloc_auth",
+            "certificate_hash": "13dd29a1ff70b6969a97489147948107f96762e0"
+          }
+        },
+        {
+          "client_id": "864025976219-8vjrosv5sk2vdier3vu1eq5hom2ipeaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZYprMDsGKEB0JEK740HhcZ4bjlfaMIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864025976219-8vjrosv5sk2vdier3vu1eq5hom2ipeaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
