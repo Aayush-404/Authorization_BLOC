@@ -1,16 +1,8 @@
-# bloc_auth
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Home Screen</h1>
+<image src= '1.jpeg'>
+<h1>Add phone number Screen</h1>
+<image src= '4.jpeg'>
+<h1>Verify User</h1>
+<image src= '3.jpeg'>
+<h1>Successfully Verified</h1>
+<image src= '2.jpeg'>
